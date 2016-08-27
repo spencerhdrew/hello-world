@@ -1,2 +1,4 @@
 # hello-world
-First Project on GitHub
+Git Hub!
+
+This is a great place for me to post my projects!
